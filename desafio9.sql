@@ -1,1 +1,1 @@
-SELECT notes FROM northwind.purchase_orders WHERE notes <> '';
+SELECT notes FROM purchase_orders WHERE notes <> '';
